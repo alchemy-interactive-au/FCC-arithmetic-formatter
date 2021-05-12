@@ -1,5 +1,7 @@
 
 def arithmetic_arranger(problems):
+
+  print("this is an update")
   firstLine = []
   secondLine = []
   thirdline = []
